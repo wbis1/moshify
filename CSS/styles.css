@@ -47,8 +47,6 @@ p {
   }
 }
 /* Links*/
-a {
-}
 .link-arrow {
   color: var(--color-accent);
   text-transform: uppercase;
